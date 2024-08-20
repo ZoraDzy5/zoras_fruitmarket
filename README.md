@@ -1,2 +1,2 @@
 # zoras_fruitmarket
-little fun python project to practice coding with python 
+fun little python project to practice coding with python 
